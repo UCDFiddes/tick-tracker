@@ -43,7 +43,7 @@ Sightings are displayed on an interactive UK map, alongside recent reports and a
 
    ```bash
    git clone https://github.com/UCDFiddes/tick-tracker
-   cd tickwatch
+   cd tick-watch
    ```
 
 2. Install dependencies:
